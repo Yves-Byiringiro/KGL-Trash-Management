@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--        Author: Aanuoluwapo Orioke  -->
+
+<resources>
+    <string-array name="usertypes">
+        <item>Utilisateur Principal</item>
+        <item>Utilisateur Secondaire</item>
+    </string-array>
+    <string-array name="language">
+        <item>Changement de Langue</item>
+        <item>English</item>
+        <item>Francias</item>
+    </string-array>
+</resources>

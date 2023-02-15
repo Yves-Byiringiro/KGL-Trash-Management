@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "961066360905",
+    "project_id": "kgl-trash",
+    "storage_bucket": "kgl-trash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961066360905:android:58f8adb0e377857eb29f98",
+        "android_client_info": {
+          "package_name": "com.example.kgltrash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961066360905-hadj5deshr0boab7516bqt2qah5m95qt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuu94XE0g_Y_H3g88nV9gRfl4WTzJPk9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961066360905-hadj5deshr0boab7516bqt2qah5m95qt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

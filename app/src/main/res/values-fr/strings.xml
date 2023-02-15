@@ -1,0 +1,88 @@
+
+<!--Author: Aanuoluwapo Orioke-->
+
+<resources>
+    <string name="app_name">KGL TMA</string>
+    <string name="app_description">Kigali Trash Management App</string>
+
+<!--screen names-->
+    <string name="register">Enregistre</string>
+    <string name="verification">Vérification</string>
+    <string name="login">Se connecter</string>
+    <string name="payment_word">Paiement</string>
+    <string name="welcome_word">Bienvenue</string>
+    <string name="notification_word">Notifications</string>
+    <string name="update_account">Compte Mis à Jour</string>
+    <string name="message_house_word">Message House</string>
+    <string name="message_street_word">Message Street</string>
+    <string name="upload_image">Upload Image</string>
+
+<!--Buttons-->
+    <string name="map_me">Carte Moi</string>
+    <string name="cancel">Annuler</string>
+    <string name="done">Finie</string>
+    <string name="go_to_map">Aller à la Carte</string>
+    <string name="upload">sousmètre</string>
+    <string name="browse_file">Parcourir le fichier</string>
+    <string name="send">Envoyer</string>
+    <string name="verify">Vérifier</string>
+    <string name="change_language">Changer de Langue</string>
+
+    <!--Hints-->
+    <string name="enter_code_hint">Entrez le code</string>
+    <string name="password_hint">Entrez le mot de passe</string>
+    <string name="phone_number_hint">Entrez le numéro de téléphone</string>
+    <string name="name_hint"> Le nom de</string>
+    <string name="street_number_hint">Entrez le numéro de rue</string>
+    <string name="house_number_hint">Entrez le numéro de la maison</string>
+    <string name="login_password"></string>
+    <string name="city_name_hint">Entrez la ville</string>
+    <string name="code_hint">Entrez le code</string>
+    <string name="message_hint">Entrez un message </string>
+
+    <!--Text Views-->
+    <string name="no_account_text">Pas de compte?</string>
+    <string name="create_account">Créer un Compte</string>
+    <string name="verification_instruction">Veuillez saisir le code que vous avez reçu sur votre téléphone</string>
+    <string name="code">Code</string>
+    <string name="send_sms_street_word">Message Street</string>
+    <string name="send_sms_house_word">Message House</string>
+    <string name="get_analytics">Analytique</string>
+    <string name="logout">Déconnexion</string>
+    <string name="select_month">Choisir le mois</string>
+    <string name="receipt">Reçu prouvant</string>
+    <string name="street_number">Numéro de rue</string>
+    <string name="house_number">Numéro de maison</string>
+    <string name="message">Message</string>
+    <string name="phone">Téléphoner</string>
+
+<!--Spinners-->
+    <string name="choose_street_number">Choisir le numéro de rue</string>
+    <string name="choose_house_number">Choisir le numéro de la maison</string>
+
+    <!-- Added by Grace Tcheukounang -->
+    <!-- login Toast -->
+    <string name="login_success">Connexion réussie</string>
+    <string name="login_failed">Connexion échoue</string>
+    <string name="enter_number_and_password">Entrez le numéro de téléphone et le mot de passe</string>
+
+    <!-- logout Toast -->
+    <string name="logout_success">Déconnexion réussie</string>
+    <string name="logout_failed">Déconnexion échoue</string>
+
+    <!-- Notification info -->
+    <string name="notification_channel">Notification de Paiement</string>
+    <string name="notification_from">Notification de KGL-Trash</string>
+    <string name="notification_title_success">Confirmation de Paiement</string>
+    <string name="notification_description_success">Paiement bien reçu et validé</string>
+    <string name="notification_title_fail">Paiement échoue </string>
+    <string name="notification_description_fail">Le paiement a déjà été effectué pour ce mois</string>
+
+    <string name="notification_list">Pas de Notifications</string>
+
+    <!-- Payment Toast -->
+    <string name="payment_success">Vous avez payé avec succès</string>
+    <string name="payment_failed">Vous avez déjà payé ce mois-ci</string>
+
+    <!-- End of code added by Grace Tcheukounang -->
+</resources>

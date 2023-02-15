@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">KGL TMA</string>
+    <string name="app_description">Kigali Trash Management App</string>
+
+<!--screen names-->
+    <string name="verify">Verify</string>
+    <string name="register">Register</string>
+    <string name="verification">Verification</string>
+    <string name="login">Login</string>
+    <string name="payment_word">Payment</string>
+    <string name="welcome_word">Welcome</string>
+    <string name="notification_word">Notifications</string>
+    <string name="update_account">Update Account</string>
+
+<!--Buttons-->
+    <string name="map_me">Map Me</string>
+    <string name="cancel">Cancel</string>
+    <string name="done">Done</string>
+    <string name="go_to_map">Go to Map</string>
+    <string name="upload">upload</string>
+    <string name="browse_file">browse file</string>
+    <string name="send">Send</string>
+
+<!--Hints-->
+    <string name="enter_code_hint">Enter code</string>
+    <string name="password_hint">Enter password</string>
+    <string name="phone_number_hint">Enter phone number</string>
+    <string name="name_hint">Enter name</string>
+    <string name="street_number_hint">Enter street number</string>
+    <string name="house_number_hint">Enter house number</string>
+    <string name="login_password"></string>
+    <string name="city_name_hint">Enter City</string>
+    <string name="code_hint">Enter Code</string>
+    <string name="message_hint">Enter Message</string>
+
+    <!--Text Views-->
+    <string name="no_account_text">Don\'t have an account?</string>
+    <string name="create_account">Create Account</string>
+    <string name="verification_instruction">Please type the code, you received on your phone to confirm that you\'re the right person</string>
+    <string name="code">Code</string>
+    <string name="send_users_sms">Send SMS</string>
+    <string name="logout">Logout</string>
+    <string name="select_month">Select Month</string>
+    <string name="receipt">Receipt</string>
+    <string name="street_number">Street Number</string>
+    <string name="house_number">House Number</string>
+    <string name="message">Message</string>
+    <string name="phone">Phone</string>
+
+<!--Spinners-->
+    <string name="choose_street_number">Choose street number</string>
+    <string name="choose_house_number">Choose house number</string>
+
+
+</resources>
